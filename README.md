@@ -34,9 +34,15 @@ Dynamic and results-oriented finance professional with **16 years of experience*
 
 ## 💼 Work Experience
 
+### **Manager - Accounts & Finance**
+**Ant Transaction Machines, Inc.** | *California, USA*
+*Nov 2025 - Present*
+
+Led end-to-end finance and accounting functions covering taxation (direct & indirect), IFRS/GAAP compliance, audits, AP/AR, vendor management, and statutory reporting. Delivered accurate financial and MIS reports to support strategic decision-making. Streamlined month-end and year-end closures, strengthened financial controls, and implemented cost-optimization measures to improve efficiency and reduce variances. Collaborated with auditors and cross-functional teams to ensure regulatory compliance, audit readiness, and alignment of financial planning with business objectives. Enhanced ERP and accounting systems to improve automation, data integrity, and reporting effectiveness while maintaining strong stakeholder and vendor relationships.
+
 ### **Assistant Manager - Accounts & Finance**
 **Decimal Technologies Private Limited** | *Gurugram*
-*Feb 2025 - Present*
+*Feb 2025 - Nov 2025*
 
 * Managed finance and accounting operations including taxation, IFRS/GAAP compliance, and vendor management.
 * Streamlined month-end and year-end closing processes, reducing turnaround time and improving accuracy.
